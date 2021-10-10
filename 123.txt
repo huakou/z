@@ -61,7 +61,6 @@ CCTV17-农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 
 中央频道,#genre#                       
 全球新闻台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-资讯,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 
 
 
