@@ -62,8 +62,8 @@ U猫资源,http://umao.ml/api.php/provide/vod/at/xml,解析
 泰剧迷,https://www.taijumi.cc/api.php/provide/vod/at/xml,解析
 结束
 
+
 解析：
-蓝猫VIP,https://jx.daidaitv.top:43810/?url=
 HG影院,https://okjx.cc/?url=
 jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
 618G,http://playx.top/?url=
