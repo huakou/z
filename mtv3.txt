@@ -17,7 +17,7 @@
     "sites": [
         {
             "key": "csp_Kunyu77", 
-            "name": "七七(SP)", 
+            "name": "七七(好)", 
             "type": 3, 
             "api": "csp_Kunyu77", 
             "searchable": 1, 
@@ -26,7 +26,7 @@
         }, 
         {
             "key": "多多资源", 
-            "name": "多多资源(切)", 
+            "name": "多多资源(快)", 
             "type": 1, 
             "api": "https://www.ddzyz1.com/api.php/provide/vod/", 
             "searchable": 1, 
@@ -81,7 +81,7 @@
         }, 
         {
             "key": "csp_Blims_美食", 
-            "name": "美食(SP)", 
+            "name": "美食(米)", 
             "type": 3, 
             "api": "csp_Blims", 
             "searchable": 1, 
@@ -302,13 +302,22 @@
         }, 
         {
             "key": "csp_xpath_dym8", 
-            "name": "电影迷(XP)", 
+            "name": "电影迷(Xb)", 
             "type": 3, 
             "api": "csp_XPath", 
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://gitea.com/lucky/P/raw/branch/master/MaooXB/dym.json"
+        },     {
+            "key": "csp_biubiu_久久电影", 
+            "name": "久久电影(xb)", 
+            "type": 3, 
+            "api": "csp_XBiubiu", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://wds.ecsxs.com/229427.json"
         }, 
         {
             "key": "csp_biubiu_骚火电影", 
@@ -1059,14 +1068,7 @@
             "searchable": 1, 
             "quickSearch": 1
         }, 
-        {
-            "key": "易看资源", 
-            "name": "易看资源(切)", 
-            "type": 1, 
-            "api": "https://api.yikanapi.com/api.php/provide/vod/", 
-            "searchable": 1, 
-            "quickSearch": 1
-        }, 
+     
         {
             "key": "新浪资源", 
             "name": "新浪资源(切)", 
