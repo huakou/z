@@ -1,8 +1,8 @@
 {
     "urls": [
         {
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "❤️一刀"
+            "url": "http://52bsj.vip:81/api/v3/file/get/47736/%E8%87%AA%E5%B7%B1%E7%9A%84%E7%8C%AB.txt?sign=teACix7GM3JHqYGbIRGCvh6SEv93PiyVBpXff8C93GY%3D%3A0",
+            "name": "❤️自己的猫"
         },
         
          {
