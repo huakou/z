@@ -5,7 +5,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=https://pan.bilnn.com/api/v3/file/sourcejump/QPay57Cb/dRpozHDBef6IrXXVQSlOyh3oo6g59tGnxkZAf3_FxFY*"]
+			"urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/huakou/z/main/hk.txt"]
 		}]
 	}],
 	"sites": [{
@@ -1066,7 +1066,7 @@
     },  {
             "name": "左岸", 
             "type": 1, 
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=", 
+            "url": "http://47.108.39.237:55/api//?key=ffQTjdEIKxqZYQgN2c&url=", 
             "ext": {
                 "flag": [
                     "qq", 
