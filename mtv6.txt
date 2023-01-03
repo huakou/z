@@ -1063,34 +1063,28 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
-    },  {
-            "name": "左岸", 
-            "type": 1, 
-            "url": "http://47.108.39.237:55/api//?key=ffQTjdEIKxqZYQgN2c&url=", 
+    },       {
+            "name": "北解析",
+            "type": 1,
+            "url": "https://xs.bcyingshi.ink/xg/?url=",
             "ext": {
                 "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "mgtv", 
-                    "芒果", 
-                    "CL4K", 
-                    "renrenmi", 
-                    "ltnb", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "duoduozy"
                 ]
             }
-        },        {
+        },    {
             "name": "光6",
             "type": 1,
             "url": "https://jiexi.hnslg.com.cn/home/api?type=ys&uid=11505586&key=denoqtuBJKLQRTVY79&url=",
