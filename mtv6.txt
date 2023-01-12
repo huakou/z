@@ -24,7 +24,7 @@
     "filterable": 1, 
     "jar": "https://yx1.s3.cn-north-1.jdcloud-oss.com/1007.jar", 
     "ext": "http://ys-i.ysepan.com/620591426/916460200/n49543555F3QN4jUrsQ55d/农民影视.txt"
-,      {
+},      {
             "key": "Apple", 
             "name": "🐖苹果影视(爬虫)", 
             "type": "3", 
