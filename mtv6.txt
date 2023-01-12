@@ -16,15 +16,15 @@
 	     "filterable":1
 	    },{
     "key": "csp_xpNmys", 
-    "name": "🙄农民影视〔快〕", 
+    "name": "🌾农民〔SP〕", 
     "type": 3, 
     "api": "csp_Nmys", 
     "searchable": 1, 
     "quickSearch": 1, 
     "filterable": 1, 
-    "jar": "https://yx1.s3.cn-north-1.jdcloud-oss.com/1007.jar", 
-    "ext": "http://ys-i.ysepan.com/620591426/916460200/n49543555F3QN4jUrsQ55d/农民影视.txt"
-},      {
+    "jar": "http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0", 
+    "ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"
+}, {
             "key": "Apple", 
             "name": "🐖苹果影视(爬虫)", 
             "type": "3", 
