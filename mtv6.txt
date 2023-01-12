@@ -23,7 +23,7 @@
             "quickSearch": "1", 
             "playerType": "1", 
             "filterable": "1"
-        },{"key": "csp_xpNmys","name": "✌️农民〔快〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://yx1.s3.cn-north-1.jdcloud-oss.com/1007.jar","ext": "http://ys-i.ysepan.com/620591426/916460200/n49543555F3QN4jUrsQ55d/农民影视.txt"},   { "key": "AppTT","name": "🐰图图丨影视","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},{
+        },  { "key": "AppTT","name": "🐰图图丨影视","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},{
     "key": "👍快看影视", 
     "name": "👍快看影视", 
     "type": 3, 
