@@ -14,7 +14,7 @@
 	     "type":3,"api":"csp_Kunyu77",                   "searchable":1,
 	     "quickSearch":1,
 	     "filterable":1
-	    },     {
+	    },      {
             "key": "Apple", 
             "name": "🐖苹果影视(爬虫)", 
             "type": "3", 
