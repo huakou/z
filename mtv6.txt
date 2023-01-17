@@ -33,7 +33,7 @@
             "quickSearch": "1", 
             "playerType": "1", 
             "filterable": "1"
-        },   { "key": "AppTT","name": "🐰图图丨影视","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},{
+        },  {"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},{
     "key": "👍快看影视", 
     "name": "👍快看影视", 
     "type": 3, 
@@ -1084,8 +1084,8 @@
       "url": "Web"
     },       {
             "name": "北解析",
-            "type": 1,
-            "url": "https://xs.bcyingshi.ink/xg/?url=",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1127,8 +1127,8 @@
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
  {
             "name": "光1",
-            "type": 1,
-            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+            "type": 0,
+            "url": "https://www.nxflv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1154,8 +1154,8 @@
         },
         {
             "name": "光2",
-            "type": 1,
-            "url": "http://pandown.pro/app/kxjx.php?url=",
+            "type": 0,
+            "url": "hhttps://jx.aidouer.net/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1182,8 +1182,8 @@
         },
         {
             "name": "光3",
-            "type": 1,
-            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
