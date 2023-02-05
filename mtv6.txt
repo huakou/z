@@ -16,7 +16,7 @@
 	     "filterable":1
 	    },{
     "key": "csp_xpNmys", 
-    "name": "🌈农民电影", 
+    "name": "🌈农民电影(快)", 
     "type": 3, 
     "api": "csp_Nmys", 
     "searchable": 1, 
@@ -24,7 +24,48 @@
     "filterable": 1, 
     "jar": "http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0", 
     "ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"
-}, {
+},    {
+    "key": "🇨🇳看8影视", 
+    "name": "看8影视(快)", 
+    "type": 3, 
+    "api": "csp_xBPQ", 
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 0, 
+    "ext": "http://ys-d.ysepan.com/620591423/916470685/jUrsQ5t58138M545JPJT31/真不卡3.txt"
+},  {
+            "key": "❤️爱奇艺2",
+            "name": "爱奇艺2",
+            "type": 1,
+            "api": "https://caiji.nxflv.com/api.php/provide/vod/?from=qiyi",
+            "playUrl": "",
+      "categories": [
+        "国产剧",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "恐怖片",
+        "动作片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "综合频道",
+        "综艺频道",
+        "动漫频道"
+
+      ]
+    },   {
+    "key": "🇨🇳奇优影视", 
+    "name": "奇优影视(快)", 
+    "type": 3, 
+    "api": "csp_xBPQ", 
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 0, 
+    "ext": "http://ys-f.ysepan.com/620591427/916473483/jUrsQ5q8833746137PH5cb/奇优影视.txt"
+},  {"key":"csp_Bttwoo","name":"🍎2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/82399/dmtv.jar?sign=rNr4opDh1bZewjPwI-lKJ5YrkqhyrsCSLcgPTHA07wE%3D%3A0"},{
             "key": "Apple", 
             "name": "🐖苹果影视(爬虫)", 
             "type": "3", 
@@ -33,7 +74,7 @@
             "quickSearch": "1", 
             "playerType": "1", 
             "filterable": "1"
-        },  {"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},{
+        },   { "key": "AppTT","name": "🐰图图丨影视","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},{
     "key": "👍快看影视", 
     "name": "👍快看影视", 
     "type": 3, 
@@ -75,18 +116,7 @@
     "quickSearch": 1, 
     "filterable": 0, 
     "ext": "http://ys-f.ysepan.com/620591419/916403942/kSsqU4p54545H466LMMU49/饭团影视.txt"
-},{"key":"drpy_ddys","name":"📁ddys(drpy)","type":3,"api":"https://gitcode.net/qq_18848185/yx/-/raw/master/1.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_18848185/yx/-/raw/master/ddys%E5%BF%AB.js"},{
-"key": "4K",
-"name": "🌈4K影视 ",
-"type": 3,
-"api": "csp_xBPQ",
-"filterable": 1,
-"quickSearch": 1,
-"searchable": 1,
-"playerType": 1,
-"jar": "https://share.nite07.com/api/v3/file/source/32190/XbPQ350.jar?sign=FfXh9aT33nleAILziJdXZic8pzpUVravYxz3sWoM_a8%3D%3A0",
-"ext": "http://ys-c.ysepan.com/620591425/916415701/jUrsQ5m34764K56J2MX8c2/4k电影.txt"
-},   {
+}, {
             "key": "csp_biubiu_LIBVIO", 
             "name": "🇨🇳LIBVIO(XB)", 
             "type": 3, 
@@ -1082,7 +1112,54 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
-    },       {
+    },   {
+            "name": "光6",
+            "type": 1,
+            "url": "https://jiexi.hnslg.com.cn/home/api?type=ys&uid=11505586&key=denoqtuBJKLQRTVY79&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },{
+            "name": "光2",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },  {"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},    {
             "name": "北解析",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
@@ -1103,28 +1180,8 @@
                     "duoduozy"
                 ]
             }
-        },    {
-            "name": "光6",
-            "type": 1,
-            "url": "https://jiexi.hnslg.com.cn/home/api?type=ys&uid=11505586&key=denoqtuBJKLQRTVY79&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺"
-                ]
-            }
-        },
-{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+        }, 
+{"name":"芒果专用","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
  {
             "name": "光1",
             "type": 0,
@@ -1152,34 +1209,7 @@
                 ]
             }
         },
-        {
-            "name": "光2",
-            "type": 0,
-            "url": "hhttps://jx.aidouer.net/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
+  {"name":"快","type":0,"url":"https://blbfq.f3322.net/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {
             "name": "光3",
             "type": 0,
