@@ -16,7 +16,7 @@
 	     "filterable":1
 	    },   {
             "key": "2影视", 
-            "name": "2影视{快)", 
+            "name": "2影视{app)", 
             "type": 3, 
             "api": "csp_AppYsV2", 
             "searchable": 1, 
@@ -32,6 +32,15 @@
             "quickSearch": "1", 
             "playerType": "1", 
             "filterable": "1"
+        },  {
+            "key": "小七影视", 
+            "name": "小七影视{app)", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://www.fw11.vip/api.php/app/"
         },   {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1, "filterable": 1,
 			"jar": "http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01"
         }, {
@@ -52,17 +61,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://wds.ecsxs.com/212263.txt"
-        },  {
-		"key": "drpy_Bzhanys",
-		"name": "极速┃播站影视",
-		"type": 3,
-		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
-		"playerType": 1,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/bzhanys.js"
-	},      {
+        },     {
             "key": "csp_appys_如意4K",
             "name": "如意4K┃App",
             "type": 3,
