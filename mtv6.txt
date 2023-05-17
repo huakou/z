@@ -4,7 +4,7 @@
 	"lives": [{
 		"name": "直播",
 		"type": 0,
-		"url": "http://wl.iptv6.top/5yue/1684299996.txt",
+		"url": "https://glot.io/snippets/gjxqv2k6ca/raw/zb",
 		"playerType": 1,
 		"boot": false
 	}],
