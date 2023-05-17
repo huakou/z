@@ -15,8 +15,8 @@
 	     "quickSearch":1,
 	     "filterable":1
 	    },   {
-            "key": "1影视", 
-            "name": "1影视{快)", 
+            "key": "2影视", 
+            "name": "2影视{快)", 
             "type": 3, 
             "api": "csp_AppYsV2", 
             "searchable": 1, 
