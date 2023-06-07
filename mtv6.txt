@@ -1,5 +1,5 @@
 {
-	"spider": "https://maoys1.oss-cn-hangzhou.aliyuncs.com/1019.txt;md5;B0BA72140B1828C8907F53CF0667493C",
+	"spider": "https://cn.kstore.space/download/2843/1019.txt;md5;B0BA72140B1828C8907F53CF0667493C",
 	"wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
 	"lives": [{
 		"name": "直播",
@@ -8,38 +8,16 @@
 		"playerType": 1,
 		"boot": false
 	}],
-	"sites": [{
-    "key": "非凡资源", 
-    "name": "非凡资源", 
-    "type": 1, 
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/", 
-   "playUrl": " ", 
-            "categories": [
-                "国产剧", 
-                "喜剧片", 
-                "爱情片", 
-                "科幻片", 
-                "剧情片", 
-                "战争片", 
-                "恐怖片", 
-                "动作片", 
-                "港台剧", 
-                "日韩剧", 
-                "欧美剧", 
-                "其它剧", 
-                "综艺", 
-                "动漫"
-            ]
-        }, {
-    "key": "七七", 
-    "name": "七七影视", 
+	"sites": [  {
+    "key": "csp_77", 
+    "name": "七七┃App", 
     "type": 3, 
-    "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js", 
-    "ext": "http://alist.xn--z7x900a.love:63/酷云77.js", 
+    "api": "csp_Kunyu77", 
     "searchable": 1, 
     "quickSearch": 1, 
-    "filterable": 1
-},  {
+     "filterable": 1,
+	       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1686192952.txt;md5;4c6366c0605d544297ee621109eb36a4"
+},{
             "key": "csp_apple",
             "name": "小苹果┃影视",
             "type": 3,
@@ -47,17 +25,38 @@
             "searchable": 1,
             "quickSearch": 1,
               "filterable": 1,
-	       "jar": "http://wl.iptv6.top/6yue/1685668967.txt;md5;10eb32e7f059984cba18ee3a8b764470"
-        },{"key":爱迪,"name":"爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},  {
-    "key": "农民", 
-    "name": "农民影视", 
-    "type": 3, 
-    "api": "csp_Nmys", 
-    "searchable": 1, 
-    "quickSearch": 1, 
-    "filterable": 1, 
-    "ext": "http://我不是.肥猫.love:63/json/nmys.json"
-},{
+	       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1686181852.txt;md5;4c6366c0605d544297ee621109eb36a4"
+        },{"key":爱迪,"name":"爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},     {
+            "key": "棉花影视", 
+            "name": "棉花影视", 
+            "type": 3, 
+            "api": "csp_MianHua", 
+            "searchable": 1, 
+            "playerType": 2, 
+            "quickSearch": 1, 
+            "filterable": 1,
+	       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1686181852.txt;md5;4c6366c0605d544297ee621109eb36a4",
+            "ext": "https://api.haokantj.com"
+        }, {
+            "key": "csp_appys_酷影",
+            "name": "酷影┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.realdou.cn/api.php/app/"
+        },{
+            "key": "农民影视",
+            "name": "农民┃影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+           "filterable": 1,
+	       "jar": "https://tvbox.cainisi.cf/jar/fan.jar;md5;a56c9d5a2278715158ceacdaf1e31964",
+            "ext": "http://shuyuan.miaogongzi.net/shuyuan/1686136406.txt"
+        },{
             "key": "2影视", 
             "name": "2影视{app)", 
             "type": 3, 
@@ -110,19 +109,19 @@
 		"playerType": 2,
 		"searchable": 1,
 		     "filterable": 1,
-	 "jar": "http://cdn.qiaoji8.com/fix0511.jar;md5;6847077f896f53976496662c3836f349",
+	 "jar": "https://cn.kstore.space/download/2843/1.txt;md5;6847077f896f53976496662c3836f349",
 		"changeable": 1
-	},{
-    "key": "csp_Nmys", 
-    "name": "秒播", 
-    "type": 3, 
-    "api": "csp_XPathFilter", 
-    "playerType": 2, 
-    "searchable": 1, 
-    "filterable": 1, 
-    "changeable": 1, 
-    "ext": "https://pastebin.com/raw/dws4ptmT"
-}   ,{
+	}, {
+            "key": "LIBVIO",
+            "name": "LIBVIO┃影视",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+          "filterable": 1,
+	       "jar": "http://wl.iptv6.top/6yue/1685668967.txt;md5;10eb32e7f059984cba18ee3a8b764470",
+            "ext": "https://tv.libvio.cc/"
+        }  ,{
             "key": "小七影视", 
             "name": "小七影视{app)", 
             "type": 3, 
@@ -350,7 +349,13 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "http://ys-k.ysepan.com/620591459/916409887/mRqtU6v545462468NH76/52看剧.txt"
-        },     {
+        },  {
+    "key": "drpy_js_花猫TV", 
+    "name": "花猫TV", 
+    "type": 3, 
+    "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js", 
+    "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/花猫TV.js"
+},   {
 	    "key":"drpy_js_搜狗",
 	    "name":"搜狗(官)",
 	    "type":3,
@@ -360,6 +365,14 @@
         "filterable": 1,
 	    "ext":"https://yydsys.top/duo/js/caigou.js"
 	}, {
+            "key": "T4直播转点播",
+            "name": "电视点播",
+            "type": 4,
+            "api": "http://120.53.102.254/live?url=http://home.jundie.top:81/ray/tvlive.txt",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },{
             "key": "csp_SP361",
             "name": "360嗅探┃xBPQ",
             "type": 3,
@@ -633,7 +646,7 @@
     "key": "爱奇艺资源", 
     "name": "爱奇艺3|解析", 
     "type": 1, 
-    "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/", 
+    "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/", 
     "playUrl": "https://jxdp.codermart.net/?url=", 
     "searchable": 1, 
     "quickSearch": 1, 
@@ -1014,14 +1027,37 @@
                 "综艺",
             ]
 },  {
-    "key": "csp_xml___影图资源", 
-    "name": "影图资源", 
+    "key": "csp_xml___影图采集", 
+    "name": "影图采集", 
     "type": 1, 
     "api": "https://cj.vodimg.top/api.php/provide/vod/", 
     "playUrl": "", 
     "searchable": 1, 
-    "quickSearch": 1
-}, {
+    "quickSearch": 1,                                                                                                                                             "categories": [       
+                "动作片", 
+                "国产剧", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "动漫",  
+                "台湾剧", 
+                "欧美剧", 
+                "韩国剧", 
+                "香港剧", 
+                "台湾剧", 
+                "纪录片", 
+                "伦理片", 
+                "综艺",
+            ]
+},{
     "key": "csp_xml___鱼乐资源", 
     "name": "鱼乐资源", 
     "type": 1, 
@@ -1030,6 +1066,28 @@
     "searchable": 1, 
     "quickSearch": 1
 },{
+    "key": "非凡资源", 
+    "name": "非凡资源", 
+    "type": 1, 
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/", 
+   "playUrl": " ", 
+            "categories": [
+                "国产剧", 
+                "喜剧片", 
+                "爱情片", 
+                "科幻片", 
+                "剧情片", 
+                "战争片", 
+                "恐怖片", 
+                "动作片", 
+                "港台剧", 
+                "日韩剧", 
+                "欧美剧", 
+                "其它剧", 
+                "综艺", 
+                "动漫"
+            ]
+        }, {
     "key": "csp_xml_新浪资源{速度快}", 
     "name": "新浪资源{速度快}", 
     "type": 1, 
