@@ -59,7 +59,7 @@
             "searchable": 1,
             "quickSearch": 1,
               "filterable": 1,
-	       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD"
+	       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1686894652.txt ;md5;09A472702BEFAECF58154F50533395FD"
         },{"key":爱迪,"name":"爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},      {
     "key": "热播", 
     "name": "┃热播┃影视", 
