@@ -17,7 +17,7 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    class_name:'电影&电视剧&纪录片&动漫&儿童&综艺&网络电影',
+    class_name:'儿童&电影&电视剧&纪录片&动漫&综艺&网络电影',
     class_url:'1&2&3&4&15&6&16',
     limit:20,
     // play_parse:true,
