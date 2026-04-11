@@ -355,7 +355,6 @@
 			"api": "https://ww.tyyszy5.com/api.php/provide/vod/?ac=list",
 			"categories": ["短剧"]
 		},
-
 		{
 			"key": "yyzy",
 			"name": "丫丫┃资源",
@@ -378,61 +377,7 @@
 			"api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
 			"categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片", "伦理片", "短剧大全"]
 		},
-		{
-			"key": "qysp",
-			"name": "奇艺┃视频",
-			"type": 3,
-			"api": "MJS_qysp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.meowtv.cn/js/meow.php?file=qysp",
-			"api": "http://www.meowtv.cn/js/drpy2.min.js"
-		},
-		{
-			"key": "txsp",
-			"name": "腾讯┃视频",
-			"type": 3,
-			"api": "MJS_txsp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.meowtv.cn/js/meow.php?file=txsp",
-			"api": "http://www.meowtv.cn/js/drpy2.min.js"
-		},
-		{
-			"key": "yksp",
-			"name": "优酷┃视频",
-			"type": 3,
-			"api": "MJS_yksp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.meowtv.cn/js/meow.php?file=yksp",
-			"api": "http://www.meowtv.cn/js/drpy2.min.js"
-		},
-		{
-			"key": "mgsp",
-			"name": "芒果┃视频",
-			"type": 3,
-			"api": "MJS_mgsp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.meowtv.cn/js/meow.php?file=mgsp",
-			"api": "http://www.meowtv.cn/js/drpy2.min.js"
-		},
-		{
-			"key": "sgys",
-			"name": "搜狗┃视频",
-			"type": 3,
-			"api": "MJS_sgys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
-			"api": "http://www.meowtv.cn/js/drpy2.min.js"
-		},
+
 		{
 			"key": "hlzy",
 			"name": "黑蓝┃资源",
@@ -442,20 +387,20 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
-			"categories": ["中文字幕", "日本有码", "日本无码", "AV解说", "cosplay", "黑丝诱惑", "SWAG", "自拍偷拍", "激情动漫", "网红主播", "探花系列", "三级伦理", "VR视角", "国产传媒", "素人搭讪", "门事件", "抖阴视频"]
+			"categories": ["\u4e2d\u6587\u5b57\u5e55", "\u65e5\u672c\u6709\u7801", "\u65e5\u672c\u65e0\u7801", "AV\u89e3\u8bf4", "cosplay", "\u9ed1\u4e1d\u8bf1\u60d1", "SWAG", "\u81ea\u62cd\u5077\u62cd", "\u6fc0\u60c5\u52a8\u6f2b", "\u7f51\u7ea2\u4e3b\u64ad", "\u63a2\u82b1\u7cfb\u5217", "\u4e09\u7ea7\u4f26\u7406", "VR\u89c6\u89d2", "\u56fd\u4ea7\u4f20\u5a92", "\u7d20\u4eba\u642d\u8baa", "\u95e8\u4e8b\u4ef6", "\u6296\u9634\u89c6\u9891"]
 		},
 		{
 			"key": "xjzy",
 			"name": "香蕉┃资源",
-			"type": 1,
+			"type": 0,
 			"api": "csp_xj",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-			"categories": ["热门视频", "国产色情", "日本无码", "自拍偷拍", "人妻熟女", "黑人洋屌", "欧美精品", "卡通动漫", "乱伦中出", "传媒原创", "口爆颜射", "岛国女优", "萝莉少女", "重口调教", "国产直播", "岛国群交", "日本有码", "中文字幕", "岛国素人", "吃瓜爆料", "角色扮演", "淫娃自慰", "公开漏出", "韩国直播", "户外打野", "高潮喷水", "电车痴汉", "AI换脸", "AV解说"]
+			"api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+			"categories": ["\u70ed\u95e8\u89c6\u9891", "\u56fd\u4ea7\u8272\u60c5", "\u65e5\u672c\u65e0\u7801", "\u81ea\u62cd\u5077\u62cd", "\u4eba\u59bb\u719f\u5973", "\u9ed1\u4eba\u6d0b\u5c4c", "\u6b27\u7f8e\u7cbe\u54c1", "\u5361\u901a\u52a8\u6f2b", "\u4e71\u4f26\u4e2d\u51fa", "\u4f20\u5a92\u539f\u521b", "\u53e3\u7206\u989c\u5c04", "\u5c9b\u56fd\u5973\u4f18", "\u841d\u8389\u5c11\u5973", "\u91cd\u53e3\u8c03\u6559", "\u56fd\u4ea7\u76f4\u64ad", "\u5c9b\u56fd\u7fa4\u4ea4", "\u65e5\u672c\u6709\u7801", "\u4e2d\u6587\u5b57\u5e55", "\u5c9b\u56fd\u7d20\u4eba", "\u5403\u74dc\u7206\u6599", "\u89d2\u8272\u626e\u6f14", "\u6deb\u5a03\u81ea\u6170", "\u516c\u5f00\u6f0f\u51fa", "\u97e9\u56fd\u76f4\u64ad", "\u6237\u5916\u6253\u91ce", "\u9ad8\u6f6e\u55b7\u6c34", "\u7535\u8f66\u75f4\u6c49", "AI\u6362\u8138", "AV\u89e3\u8bf4"]
 		},
-    	{
+		{
 			"key": "fqzy",
 			"name": "番茄┃资源",
 			"type": 1,
@@ -464,7 +409,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://fqzy.me//api.php/provide/vod/?ac=list",
-			"categories": ["偷拍自拍", "国产大制作", "国产推荐", "中文字幕", "高清无码", "乱伦毁三观", "高清有码", "淫妻绿帽", "淫乱学妹", "日本素人", "国产直播", "主播女网红", "无码流出", "重口猎奇", "黑料网爆", "FC2", "韩国直播", "东京热", "欧美精品", "会所技师", "一本道", "制服诱惑", "动漫精选"]
+			"categories": ["\u5077\u62cd\u81ea\u62cd", "\u56fd\u4ea7\u5927\u5236\u4f5c", "\u56fd\u4ea7\u63a8\u8350", "\u4e2d\u6587\u5b57\u5e55", "\u9ad8\u6e05\u65e0\u7801", "\u4e71\u4f26\u6bc1\u4e09\u89c2", "\u9ad8\u6e05\u6709\u7801", "\u6deb\u59bb\u7eff\u5e3d", "\u6deb\u4e71\u5b66\u59b9", "\u65e5\u672c\u7d20\u4eba", "\u56fd\u4ea7\u76f4\u64ad", "\u4e3b\u64ad\u5973\u7f51\u7ea2", "\u65e0\u7801\u6d41\u51fa", "\u91cd\u53e3\u730e\u5947", "\u9ed1\u6599\u7f51\u7206", "FC2", "\u97e9\u56fd\u76f4\u64ad", "\u4e1c\u4eac\u70ed", "\u6b27\u7f8e\u7cbe\u54c1", "\u4f1a\u6240\u6280\u5e08", "\u4e00\u672c\u9053", "\u5236\u670d\u8bf1\u60d1", "\u52a8\u6f2b\u7cbe\u9009"]
 		},
 		{
 			"key": "ddzy",
@@ -475,7 +420,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
-			"categories": ["国产专区","国产厂商","主播视讯","日本无码","日本有码","中文字幕","中字无码","中字有码","水果派解说","麻豆传媒","91制片厂","蜜桃影像传媒","天美传媒","精东影业","星空无限传媒","台湾swag","其他传媒","三级伦理","美女写真","卡通动漫","葫芦影业","糖心Vlog","欧美性爱","黑料事件","SM调教","女同系列"]
+			"categories": ["\u56fd\u4ea7\u4e13\u533a","\u56fd\u4ea7\u5382\u5546","\u4e3b\u64ad\u89c6\u8baf","\u65e5\u672c\u65e0\u7801","\u65e5\u672c\u6709\u7801","\u4e2d\u6587\u5b57\u5e55","\u4e2d\u5b57\u65e0\u7801","\u4e2d\u5b57\u6709\u7801","\u6c34\u679c\u6d3e\u89e3\u8bf4","\u9ebb\u8c46\u4f20\u5a92","91\u5236\u7247\u5382","\u871c\u6843\u5f71\u50cf\u4f20\u5a92","\u5929\u7f8e\u4f20\u5a92","\u7cbe\u4e1c\u5f71\u4e1a","\u661f\u7a7a\u65e0\u9650\u4f20\u5a92","\u53f0\u6e7eswag","\u5176\u4ed6\u4f20\u5a92","\u4e09\u7ea7\u4f26\u7406","\u7f8e\u5973\u5199\u771f","\u5361\u901a\u52a8\u6f2b","\u846b\u82a6\u5f71\u4e1a","\u7cd6\u5fc3Vlog","\u6b27\u7f8e\u6027\u7231","\u9ed1\u6599\u4e8b\u4ef6","SM\u8c03\u6559","\u5973\u540c\u7cfb\u5217"]
 		},
 		{
 			"key": "syzy",
@@ -486,7 +431,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://shayuzy5.com/api.php/provide/vod/?ac=list",
-			"categories": ["国产情色","日本无码","AV明星","中文字幕","网红主播","成人动漫","欧美情色","国模私拍","长腿丝袜","邻家人妻","韩国伦理","香港伦理","精品推荐","AV明星"]
+			"categories": ["\u56fd\u4ea7\u60c5\u8272","\u65e5\u672c\u65e0\u7801","AV\u660e\u661f","\u4e2d\u6587\u5b57\u5e55","\u7f51\u7ea2\u4e3b\u64ad","\u6210\u4eba\u52a8\u6f2b","\u6b27\u7f8e\u60c5\u8272","\u56fd\u6a21\u79c1\u62cd","\u957f\u817f\u4e1d\u889c","\u90bb\u5bb6\u4eba\u59bb","\u97e9\u56fd\u4f26\u7406","\u9999\u6e2f\u4f26\u7406","\u7cbe\u54c1\u63a8\u8350","AV\u660e\u661f"]
 		},
 		{
 			"key": "ljzy",
@@ -497,7 +442,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "http://lajiaozy1.com/api.php/provide/vod/?ac=list",
-			"categories": ["国产自拍","欧美极品","日韩无码","AV明星","中文字幕","动漫精品","极骚萝莉","人妖视频","重咸口味","三级自慰","强奸乱伦","独家擂台格斗","辣椒GIGA","HEYZO","独家DMM","HEY诱惑","童颜巨乳","高潮喷吹","激情口交","绝美少女","首次亮相","AV明星"]
+			"categories": ["\u56fd\u4ea7\u81ea\u62cd","\u6b27\u7f8e\u6781\u54c1","\u65e5\u97e9\u65e0\u7801","AV\u660e\u661f","\u4e2d\u6587\u5b57\u5e55","\u52a8\u6f2b\u7cbe\u54c1","\u6781\u9a9a\u841d\u8389","\u4eba\u5996\u89c6\u9891","\u91cd\u54b8\u53e3\u5473","\u4e09\u7ea7\u81ea\u6170","\u5f3a\u5978\u4e71\u4f26","\u72ec\u5bb6\u64c2\u53f0\u683c\u6597","\u8fa3\u6912GIGA","HEYZO","\u72ec\u5bb6DMM","HEY\u8bf1\u60d1","\u7ae5\u989c\u5de8\u4e73","\u9ad8\u6f6e\u55b7\u5439","\u6fc0\u60c5\u53e3\u4ea4","\u7edd\u7f8e\u5c11\u5973","\u9996\u6b21\u4eae\u76f8","AV\u660e\u661f"]
 		},
 		{
 			"key": "115zy",
@@ -508,7 +453,40 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://155api.com/api.php/provide/vod/?ac=list",
-			"categories": ["无码专区","麻豆传媒","制服诱惑","三级伦理","AI换脸","中文字幕","卡通动漫","欧美系列","美女主播","国产自拍","熟女人妻","萝莉少女","女同性爱","多人群交","美乳巨乳","强奸乱伦","欧美风情","网友自拍","卡通漫画","露出激情","唯美写真","女优情报","抖音视频","韩国主播","网红头条","网爆黑料","欧美无码","女优明星","SM调教","AV解说"]
+			"categories": ["\u65e0\u7801\u4e13\u533a","\u9ebb\u8c46\u4f20\u5a92","\u5236\u670d\u8bf1\u60d1","\u4e09\u7ea7\u4f26\u7406","AI\u6362\u8138","\u4e2d\u6587\u5b57\u5e55","\u5361\u901a\u52a8\u6f2b","\u6b27\u7f8e\u7cfb\u5217","\u7f8e\u5973\u4e3b\u64ad","\u56fd\u4ea7\u81ea\u62cd","\u719f\u5973\u4eba\u59bb","\u841d\u8389\u5c11\u5973","\u5973\u540c\u6027\u7231","\u591a\u4eba\u7fa4\u4ea4","\u7f8e\u4e73\u5de8\u4e73","\u5f3a\u5978\u4e71\u4f26","\u6b27\u7f8e\u98ce\u60c5","\u7f51\u53cb\u81ea\u62cd","\u5361\u901a\u6f2b\u753b","\u9732\u51fa\u6fc0\u60c5","\u552f\u7f8e\u5199\u771f","\u5973\u4f18\u60c5\u62a5","\u6296\u97f3\u89c6\u9891","\u97e9\u56fd\u4e3b\u64ad","\u7f51\u7ea2\u5934\u6761","\u7f51\u7206\u9ed1\u6599","\u6b27\u7f8e\u65e0\u7801","\u5973\u4f18\u660e\u661f","SM\u8c03\u6559","AV\u89e3\u8bf4"]
+		},
+		{
+			"key": "ddzy",
+			"name": "大地┃资源",
+			"type": 0,
+			"api": "csp_dd",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "https://dadizy11.com/api.php/provide/vod/",
+			"categories": ["\u65e5\u97e9\u65e0\u7801","\u5f3a\u5978\u4e71\u4f26","\u6b27\u7f8e\u7cbe\u54c1","\u56fd\u4ea7\u7cbe\u54c1","\u4eba\u59bb\u7cfb\u5217","\u4e2d\u6587\u5b57\u5e55","\u52a8\u6f2b\u7cbe\u54c1","\u4f26\u7406\u5f71\u7247","\u65e5\u97e9\u7cbe\u54c1","\u5236\u670d\u8bf1\u60d1","\u81ea\u62cd\u5077\u62cd","AV\u660e\u661f","3P\u5408\u8f91","\u5de8\u4e73\u7cfb\u5217","\u989c\u5c04\u7cfb\u5217","\u53e3\u4ea4\u89c6\u9891","\u81ea\u6170\u7cfb\u5217","SM\u91cd\u5473","\u6559\u5e08\u5b66\u751f","\u5927\u79c0\u89c6\u9891"]
+		},
+		{
+			"key": "ytkzy",
+			"name": "玉兔┃资源",
+			"type": 1,
+			"api": "csp_yt",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+			"categories": ["\u7cbe\u54c1\u63a8\u8350","\u56fd\u4ea7\u7cbe\u54c1","\u81ea\u62cd\u5077\u62cd","\u9ebb\u8c46\u4f20\u5a92","\u660e\u661f\u6362\u8138","\u56fd\u4ea7\u4e71\u4f26","\u56fd\u4ea7\u4e1d\u889c","\u56fd\u4ea7SM","\u56fd\u4ea7\u4eba\u59bb","\u63a2\u82b1\u5ad6\u5a3c","\u4e3b\u64ad\u79c0\u8272","\u65e5\u672c\u6709\u7801","\u65e5\u672c\u65e0\u7801","\u4e2d\u6587\u5b57\u5e55","\u7ae5\u989c\u5de8\u4e73","\u6027\u611f\u4eba\u59bb","\u5f3a\u5978\u4e71\u4f26","\u6b27\u7f8e\u60c5\u8272","\u4e09\u7ea7\u4f26\u7406","\u5361\u901a\u52a8\u6f2b","\u4e1d\u889cOL","\u65e5\u672c\u7247\u5546","\u5267\u60c5\u4ecb\u7ecd","\u7f51\u66dd\u7cfb\u5217","\u540c\u6027\u604b"]
+		},
+		{
+			"key": "xbzy",
+			"name": "细胞┃资源",
+			"type": 1,
+			"api": "csp_xb",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+			"categories": ["\u70ed\u95e8\u89c6\u9891","\u56fd\u4ea7\u8272\u60c5","\u65e5\u672c\u65e0\u7801","\u81ea\u62cd\u5077\u62cd","\u56fd\u4ea7\u76f4\u64ad","\u4f20\u5a92\u539f\u521b","\u4eba\u59bb\u719f\u5973","\u9ed1\u4eba\u6d0b\u5c4c","\u6b27\u7f8e\u7cbe\u54c1","\u5361\u901a\u52a8\u6f2b","\u4e71\u4f26\u4e2d\u51fa","\u53e3\u7206\u989c\u5c04","\u5c9b\u56fd\u5973\u4f18","\u841d\u8389\u5c11\u5973","\u91cd\u53e3\u8c03\u6559","\u5c9b\u56fd\u7fa4\u4ea4","\u65e5\u672c\u6709\u7801","\u4e2d\u6587\u5b57\u5e55","\u5c9b\u56fd\u7d20\u4eba","\u5403\u74dc\u7206\u6599","\u89d2\u8272\u626e\u6f14","\u6deb\u5a03\u81ea\u6170","\u516c\u5f00\u6f0f\u51fa","\u97e9\u56fd\u76f4\u64ad","\u6237\u5916\u6253\u91ce","\u9ad8\u6f6e\u55b7\u6c34","\u7535\u8f66\u75f4\u6c49","AI\u6362\u8138","AV\u89e3\u8bf4","\u4f26\u7406\u4e09\u7ea7"]
 		},
 		{
 			"key": "fhzy",
@@ -519,7 +497,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "http://fhapi9.com/api.php/provide/vod/at/json/",
-			"categories": ["制服丝袜","群交淫乱","无码专区","偷拍自拍","卡通动漫","中文字幕","欧美性爱","巨乳美乳","国产裸聊","国产自拍","国产盗摄","伦理三级","女同性恋","少女萝莉","人妖系列","虚拟VR"]
+			"categories": ["\u5236\u670d\u4e1d\u889c","\u7fa4\u4ea4\u6deb\u4e71","\u65e0\u7801\u4e13\u533a","\u5077\u62cd\u81ea\u62cd","\u5361\u901a\u52a8\u6f2b","\u4e2d\u6587\u5b57\u5e55","\u6b27\u7f8e\u6027\u7231","\u5de8\u4e73\u7f8e\u4e73","\u56fd\u4ea7\u88f8\u804a","\u56fd\u4ea7\u81ea\u62cd","\u56fd\u4ea7\u76d7\u6444","\u4f26\u7406\u4e09\u7ea7","\u5973\u540c\u6027\u604b","\u5c11\u5973\u841d\u8389","\u4eba\u5996\u7cfb\u5217","\u865a\u62dfVR"]
 		},
 		{
 			"key": "nxzy",
@@ -530,7 +508,18 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
-			"categories": ["精品国产","精品日韩","精品综合","精品小说","精品美图","国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角"]
+			"categories": ["\u7cbe\u54c1\u56fd\u4ea7","\u7cbe\u54c1\u65e5\u97e9","\u7cbe\u54c1\u7efc\u5408","\u7cbe\u54c1\u5c0f\u8bf4","\u7cbe\u54c1\u7f8e\u56fe","\u56fd\u4ea7\u81ea\u62cd","\u4e3b\u64ad\u8bf1\u60d1","\u63a2\u82b1\u7ea6\u70ae","\u5077\u62cd\u5077\u7aa5","\u7f51\u66dd\u5403\u74dc","\u6296\u9634\u77ed\u7247","\u4f20\u5a92\u5267\u60c5","\u65e5\u97e9\u4e3b\u64ad","\u65e5\u97e9\u65e0\u7801","\u4e2d\u6587\u5b57\u5e55","AV\u89e3\u8bf4","\u6362\u8138\u660e\u661f","\u5f3a\u5978\u4e71\u4f26","\u5973\u4f18\u660e\u661f","\u6b27\u7f8e\u6fc0\u60c5","\u91cd\u53e3\u6fc0\u60c5","\u4e09\u7ea7\u4f26\u7406","\u5267\u60c5\u52a8\u6f2b","SM\u8c03\u6559","\u5973\u540c\u6027\u604b","VR\u89c6\u89d2"]
+		},
+		{
+			"key": "JKzy",
+			"name": "JKUN┃资源",
+			"type": 1,
+			"api": "csp_JK",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "https://jkunzyapi.com/api.php/provide/vod",
+			"categories": ["\u56fd\u4ea7\u4f20\u5a92","\u81ea\u62cd\u5077\u62cd","\u7f51\u7ea2\u4e3b\u64ad","\u63a2\u82b1\u7cfb\u5217","\u4e2d\u6587\u5b57\u5e55","\u65e5\u672c\u6709\u7801","\u65e5\u672c\u65e0\u7801","AV\u89e3\u8bf4","cosplay","\u90fd\u5e02\u6fc0\u60c5","\u9ed1\u4e1d\u8bf1\u60d1","SWAG","\u6fc0\u60c5\u52a8\u6f2b","\u4e09\u7ea7\u4f26\u7406","VR\u89c6\u89d2","\u7d20\u4eba\u642d\u8baa","\u95e8\u4e8b\u4ef6","\u6296\u9634\u89c6\u9891"]
 		},
 		{
 			"key": "x8zy",
@@ -540,8 +529,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"api": "https://xingba111.com/api.php/provide/vod/?ac=list",
-			"categories": ["日韩无码","国产精品","日韩精品","欧美精品","动漫精品","自拍偷拍","伦理影片","中文字幕","人妻系列","制服诱惑","强奸乱伦","AV明星","SM重味","巨乳系列","颜射系列","口交视频","自慰系列","教师学生","大秀视频","明星换脸","AV解说","黑料网曝","精品探花","精品网红","反差母狗","颜值正义","熟女少妇","人兽乱交","国产传媒"]
+			"api": "https://xingba222.com/api.php/provide/vod/?ac=list",
+			"categories": ["\u65e5\u97e9\u65e0\u7801","\u56fd\u4ea7\u7cbe\u54c1","\u65e5\u97e9\u7cbe\u54c1","\u6b27\u7f8e\u7cbe\u54c1","\u52a8\u6f2b\u7cbe\u54c1","\u81ea\u62cd\u5077\u62cd","\u4f26\u7406\u5f71\u7247","\u4e2d\u6587\u5b57\u5e55","\u4eba\u59bb\u7cfb\u5217","\u5236\u670d\u8bf1\u60d1","\u5f3a\u5978\u4e71\u4f26","AV\u660e\u661f","SM\u91cd\u5473","\u5de8\u4e73\u7cfb\u5217","\u989c\u5c04\u7cfb\u5217","\u53e3\u4ea4\u89c6\u9891","\u81ea\u6170\u7cfb\u5217","\u6559\u5e08\u5b66\u751f","\u5927\u79c0\u89c6\u9891","\u660e\u661f\u6362\u8138","AV\u89e3\u8bf4","\u9ed1\u6599\u7f51\u66dd","\u7cbe\u54c1\u63a2\u82b1","\u7cbe\u54c1\u7f51\u7ea2","\u53cd\u5dee\u6bcd\u72d7","\u989c\u503c\u6b63\u4e49","\u719f\u5973\u5c11\u5987","\u4eba\u517d\u4e71\u4ea4","\u56fd\u4ea7\u4f20\u5a92"]
 		},
 		{
 			"key": "hsck",
@@ -553,7 +542,7 @@
 			"filterable": 1,
 			"api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
 			"playurl": "json:https://jx.bfhsck.com/m3u8/?url=",
-			"categories": ["国产自拍", "国产传媒", "网红主播", "探花系列", "AV区", "欧美区", "动漫区", "人妻熟女", "日本无码", "美乳巨乳", "强制侵犯", "制服诱惑", "绝色佳人", "风俗泡泡浴", "家庭乱伦", "AV解说", "三级电影", "少女萝莉", "SM调教", "绝顶潮吹", "魔镜系列", "时间停止", "催眠洗脑", "漫改系列", "电车痴汉", "淫欲痴女", "AI换脸", "其他区", "网曝门", "TS专区", "女性向系列", "女同性恋", "男同性恋", "欧美精品", "日本动漫", "3D动漫", "韩国主播", "泰国风情", "OnlyFans"]
+			"categories": ["\u56fd\u4ea7\u81ea\u62cd", "\u56fd\u4ea7\u4f20\u5a92", "\u7f51\u7ea2\u4e3b\u64ad", "\u63a2\u82b1\u7cfb\u5217", "AV\u533a", "\u6b27\u7f8e\u533a", "\u52a8\u6f2b\u533a", "\u4eba\u59bb\u719f\u5973", "\u65e5\u672c\u65e0\u7801", "\u7f8e\u4e73\u5de8\u4e73", "\u5f3a\u5236\u4fb5\u72af", "\u5236\u670d\u8bf1\u60d1", "\u7edd\u8272\u4f73\u4eba", "\u98ce\u4fd7\u6ce1\u6ce1\u6d74", "\u5bb6\u5ead\u4e71\u4f26", "AV\u89e3\u8bf4", "\u4e09\u7ea7\u7535\u5f71", "\u5c11\u5973\u841d\u8389", "SM\u8c03\u6559", "\u7edd\u9876\u6f6e\u5439", "\u9b54\u955c\u7cfb\u5217", "\u65f6\u95f4\u505c\u6b62", "\u50ac\u7720\u6d17\u8111", "\u6f2b\u6539\u7cfb\u5217", "\u7535\u8f66\u75f4\u6c49", "\u6deb\u6b32\u75f4\u5973", "AI\u6362\u8138", "\u5176\u4ed6\u533a", "\u7f51\u66dd\u95e8", "TS\u4e13\u533a", "\u5973\u6027\u5411\u7cfb\u5217", "\u5973\u540c\u6027\u604b", "\u7537\u540c\u6027\u604b", "\u6b27\u7f8e\u7cbe\u54c1", "\u65e5\u672c\u52a8\u6f2b", "3D\u52a8\u6f2b", "\u97e9\u56fd\u4e3b\u64ad", "\u6cf0\u56fd\u98ce\u60c5", "OnlyFans"]
 		},
 		{
 			"key": "xjck",
@@ -565,7 +554,7 @@
 			"filterable": 1,
 			"api": "https://api.xjzyapi.xyz/provide/vod/",
 			"playurl": "json:https://api.xjzyapi.xyz/aplayer/player.html?autoplay=1&movurl=",
-			"categories": ["国产厂牌", "主播网红", "自拍偷拍", "国产精选", "国产三级", "日韩AV", "欧美精品", "异族风情", "动漫专栏", "强奸迷奸", "丝袜制服", "SM调教", "乱伦", "网曝黑料", "口交自慰", "群交多P", "AI换脸", "素人特摄", "无码高清", "经典有码", "中文字幕", "重口调教", "厂牌经典", "人兽", "其他", "东南亚", "阿拉伯", "印巴拉丁", "激情H漫", "3D", "学生萝莉", "日韩三级", "蓝光超清", "日韩精选", "欧美精选", "VR专区"]
+			"categories": ["\u56fd\u4ea7\u5382\u724c", "\u4e3b\u64ad\u7f51\u7ea2", "\u81ea\u62cd\u5077\u62cd", "\u56fd\u4ea7\u7cbe\u9009", "\u56fd\u4ea7\u4e09\u7ea7", "\u65e5\u97e9AV", "\u6b27\u7f8e\u7cbe\u54c1", "\u5f02\u65cf\u98ce\u60c5", "\u52a8\u6f2b\u4e13\u680f", "\u5f3a\u5978\u8ff7\u5978", "\u4e1d\u889c\u5236\u670d", "SM\u8c03\u6559", "\u4e71\u4f26", "\u7f51\u66dd\u9ed1\u6599", "\u53e3\u4ea4\u81ea\u6170", "\u7fa4\u4ea4\u591aP", "AI\u6362\u8138", "\u7d20\u4eba\u7279\u6444", "\u65e0\u7801\u9ad8\u6e05", "\u7ecf\u5178\u6709\u7801", "\u4e2d\u6587\u5b57\u5e55", "\u91cd\u53e3\u8c03\u6559", "\u5382\u724c\u7ecf\u5178", "\u4eba\u517d", "\u5176\u4ed6", "\u4e1c\u5357\u4e9a", "\u963f\u62c9\u4f2f", "\u5370\u5df4\u62c9\u4e01", "\u6fc0\u60c5H\u6f2b", "3D", "\u5b66\u751f\u841d\u8389", "\u65e5\u97e9\u4e09\u7ea7", "\u84dd\u5149\u8d85\u6e05", "\u65e5\u97e9\u7cbe\u9009", "\u6b27\u7f8e\u7cbe\u9009", "VR\u4e13\u533a"]
 		},
 		{
 			"key": "bwzy",
@@ -577,7 +566,7 @@
 			"filterable": 1,
 			"api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
 			"playurl": "json:https://bf.bwzyapi.com/?url=",
-			"categories": ["国产视频", "国产主播", "91大神", "热门事件", "传媒自拍","日本有码", "日本无码", "日韩主播", "动漫肉番", "女同性恋", "中文字幕", "强奸乱伦", "熟女人妻", "制服诱惑", "AV解说", "女星换脸", "欧美精品"]
+			"categories": ["\u56fd\u4ea7\u89c6\u9891", "\u56fd\u4ea7\u4e3b\u64ad", "91\u5927\u795e", "\u70ed\u95e8\u4e8b\u4ef6", "\u4f20\u5a92\u81ea\u62cd","\u65e5\u672c\u6709\u7801", "\u65e5\u672c\u65e0\u7801", "\u65e5\u97e9\u4e3b\u64ad", "\u52a8\u6f2b\u8089\u756a", "\u5973\u540c\u6027\u604b", "\u4e2d\u6587\u5b57\u5e55", "\u5f3a\u5978\u4e71\u4f26", "\u719f\u5973\u4eba\u59bb", "\u5236\u670d\u8bf1\u60d1", "AV\u89e3\u8bf4", "\u5973\u661f\u6362\u8138", "\u6b27\u7f8e\u7cbe\u54c1"]
 		},
 		{
 			"key": "lbzy",
@@ -588,9 +577,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://lbapi9.com/api.php/provide/vod/at/json/",
-			"categories": ["亚洲情色", "国产主播", "国产自拍", "无码专区", "欧美性爱", "熟女人妻", "强奸乱伦", "巨乳美乳", "中文字幕", "制服诱惑", "女同性恋", "卡通动画", "视频伦理", "少女萝莉", "重口色情", "人兽性交", "福利姬"]
+			"categories": ["\u4e9a\u6d32\u60c5\u8272", "\u56fd\u4ea7\u4e3b\u64ad", "\u56fd\u4ea7\u81ea\u62cd", "\u65e0\u7801\u4e13\u533a", "\u6b27\u7f8e\u6027\u7231", "\u719f\u5973\u4eba\u59bb", "\u5f3a\u5978\u4e71\u4f26", "\u5de8\u4e73\u7f8e\u4e73", "\u4e2d\u6587\u5b57\u5e55", "\u5236\u670d\u8bf1\u60d1", "\u5973\u540c\u6027\u604b", "\u5361\u901a\u52a8\u753b", "\u89c6\u9891\u4f26\u7406", "\u5c11\u5973\u841d\u8389", "\u91cd\u53e3\u8272\u60c5", "\u4eba\u517d\u6027\u4ea4", "\u798f\u5229\u59ec"]
 		},
-
 		{
 			"key": "dnzy",
 			"name": "DN┃资源",
@@ -600,7 +588,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
-			"categories": ["精品推荐", "国产主播", "国产乱伦", "自拍偷拍", "制服丝袜", ",网曝事件", "传媒探花", "清纯学生", "A V 解说", "淫妻作乐", "港台辣妹", "足浴撩妹", "反差母狗", " A I 换脸 ", "V R 视角 ", "重口性癖 ", "制服诱惑 ", " 丝袜美腿 ", "中文字幕 ", "无码流出 ", "多人群交 ", "凌辱快感 ", "角色剧情 ", "强奸乱伦 ", "韩国三级 ", "欧美激情 ", "人妻熟女 ", "主奴调教 ", "动漫卡通 ", "变性伪娘 ", "女同性恋 ", "野外露出 "]
+			"categories": ["\u7cbe\u54c1\u63a8\u8350", "\u56fd\u4ea7\u4e3b\u64ad", "\u56fd\u4ea7\u4e71\u4f26", "\u81ea\u62cd\u5077\u62cd", "\u5236\u670d\u4e1d\u889c", ",\u7f51\u66dd\u4e8b\u4ef6", "\u4f20\u5a92\u63a2\u82b1", "\u6e05\u7eaf\u5b66\u751f", "A V \u89e3\u8bf4", "\u6deb\u59bb\u4f5c\u4e50", "\u6e2f\u53f0\u8fa3\u59b9", "\u8db3\u6d74\u64a9\u59b9", "\u53cd\u5dee\u6bcd\u72d7", " A I \u6362\u8138 ", "V R \u89c6\u89d2 ", "\u91cd\u53e3\u6027\u7656 ", "\u5236\u670d\u8bf1\u60d1 ", " \u4e1d\u889c\u7f8e\u817f ", "\u4e2d\u6587\u5b57\u5e55 ", "\u65e0\u7801\u6d41\u51fa ", "\u591a\u4eba\u7fa4\u4ea4 ", "\u51cc\u8fb1\u5feb\u611f ", "\u89d2\u8272\u5267\u60c5 ", "\u5f3a\u5978\u4e71\u4f26 ", "\u97e9\u56fd\u4e09\u7ea7 ", "\u6b27\u7f8e\u6fc0\u60c5 ", "\u4eba\u59bb\u719f\u5973 ", "\u4e3b\u5974\u8c03\u6559 ", "\u52a8\u6f2b\u5361\u901a ", "\u53d8\u6027\u4f2a\u5a18 ", "\u5973\u540c\u6027\u604b ", "\u91ce\u5916\u9732\u51fa "]
 		},
 		{
 			"key": "lwcl",
