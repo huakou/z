@@ -3,11 +3,11 @@
 	"sites": [
 
    {
-      "key": "XBPQ_飞行影视",
-      "name": "飞行影院(XBPQ)",
+      "key": "XBPQ_非常好",
+      "name": "非常好(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://chuanshuo.77blog.cn/chuanshuo.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/AbaloneHunter/Film-TV/refs/heads/main/jar/%E5%86%85%E7%BD%AELzgo.jar",
       "ext":{
                 "主页url": "https://avxxx.avxxx17.xyz/avxxx/",
                 "播放数组": "thumbnail\"&&</p",
