@@ -2,6 +2,24 @@
 	"warningText": "接口免费获取，请勿贩卖接口！！！",
 	"sites": [
 
+   {
+      "key": "XBPQ_飞行影视",
+      "name": "飞行影院(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://chuanshuo.77blog.cn/chuanshuo.jar",
+      "ext":{
+                "主页url": "https://avxxx.avxxx17.xyz/avxxx/",
+                "播放数组": "thumbnail\"&&</p",
+                "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+                "直接播放": "1",
+                "分类url": "https://avxxx.avxxx17.xyz/avxxx/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类二次截取": "<div class=\"first\">&&</a",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/avxxx/index.php/vod/type/id/&&.html"
+            }
+    },
 		{
 			"key": "dytt",
 			"name": "电影天堂┃资源",
@@ -444,6 +462,16 @@
 			"api": "http://lajiaozy1.com/api.php/provide/vod/?ac=list",
 			"categories": ["\u56fd\u4ea7\u81ea\u62cd","\u6b27\u7f8e\u6781\u54c1","\u65e5\u97e9\u65e0\u7801","AV\u660e\u661f","\u4e2d\u6587\u5b57\u5e55","\u52a8\u6f2b\u7cbe\u54c1","\u6781\u9a9a\u841d\u8389","\u4eba\u5996\u89c6\u9891","\u91cd\u54b8\u53e3\u5473","\u4e09\u7ea7\u81ea\u6170","\u5f3a\u5978\u4e71\u4f26","\u72ec\u5bb6\u64c2\u53f0\u683c\u6597","\u8fa3\u6912GIGA","HEYZO","\u72ec\u5bb6DMM","HEY\u8bf1\u60d1","\u7ae5\u989c\u5de8\u4e73","\u9ad8\u6f6e\u55b7\u5439","\u6fc0\u60c5\u53e3\u4ea4","\u7edd\u7f8e\u5c11\u5973","\u9996\u6b21\u4eae\u76f8","AV\u660e\u661f"]
 		},
+		  {
+      "key": "这个可以看",
+      "name": "这个可以看",
+      "type": 4,
+      "api": "http://ser995290833053.gptapp.ren/tvbox/php/pptv.php?token=yyds",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 		{
 			"key": "115zy",
 			"name": "115┃资源",
