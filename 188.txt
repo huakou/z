@@ -4,7 +4,7 @@
   {
       "key": "九九逍遥",
       "name": "🔞三级片大全",
-      "type": 3, "jar": "http://dd.ma/CFlLnSbJ",
+      "type": 3,   "jar": "https://ghfast.top/https://raw.githubusercontent.com/AbaloneHunter/Film-TV/refs/heads/main/jar/%E5%86%85%E7%BD%AELzgo.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
