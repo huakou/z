@@ -1,7 +1,26 @@
 {
 	"warningText": "接口免费获取，请勿贩卖接口！！！",
 	"sites": [
-
+  {
+      "key": "九九逍遥",
+      "name": "🔞三级片大全",
+      "type": 3, "jar": "http://dd.ma/CFlLnSbJ",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "http://www.9y9r.com/so-show/36-----------.html",
+        "数组": "lazyload\"&&</a",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "公子专属+text-right\">&&</",
+        "链接": "href=\"&&\"",
+        "简介": "【友情提醒：请不要相信视频中的广告，以免上当受骗！】",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "http://www.9y9r.com/so-show/36-{cateId}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+      }
+    },
    {
       "key": "XBPQ_非常好",
       "name": "非常好(XBPQ)",
@@ -19,6 +38,22 @@
                 "分类标题": ">&&<",
                 "分类ID": "/avxxx/index.php/vod/type/id/&&.html"
             }
+    },
+     {
+      "key": "黄瓜视频",
+      "name": "ദ്ദി黄瓜视频",
+      "type": 3,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/AbaloneHunter/Film-TV/refs/heads/main/jar/%E5%86%85%E7%BD%AELzgo.jar",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/AbaloneHunter/Film-TV/refs/heads/main/py^js/Yellow/%E9%BB%84%E7%93%9C%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "",
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      }
     },
 		{
 			"key": "dytt",
