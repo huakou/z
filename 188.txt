@@ -177,17 +177,7 @@
 			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
 			"categories": ["大陆剧", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "纪录片", "国产动漫", "港台动漫", "日韩动漫", "欧美动漫", "大陆综艺", "港台综艺", "大陆剧", "香澳剧", "台湾剧", "韩剧", "日剧", "欧美剧", "泰国剧"]
 		},
-		{
-			"key": "qyys",
-			"name": "奇优┃影视",
-			"type": 3,
-			"api": "csp_Qiyou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"playerType": 1,
-			"jar": "http://47.96.82.41:5188/xgg/7/meow.jar;md5;D2F2AD718A007B5733ABB5F91AD23533"
-		},
+		
 		{
 			"key": "Kkys",
 			"name": "天堂┃资源",
